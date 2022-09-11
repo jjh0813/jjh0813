@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a student of Gachon university. I made this repository for open source SW course. I am glad to study about open source SW.
 
 <!--
 **jjh0813/jjh0813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
